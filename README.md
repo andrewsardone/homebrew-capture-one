@@ -13,7 +13,7 @@ brew tap andrewsardone/homebrew-capture-one
 Then you can install the Capture One application:
 
 ```bash
-brew install andrewsardone/homebrew-capture-one/capture-one
+brew install andrewsardone/capture-one/capture-one
 ```
 
 [Homebrew]: https://brew.sh
