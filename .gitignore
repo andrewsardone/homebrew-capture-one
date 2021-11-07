@@ -1,2 +1,12 @@
 # macOS
 .DS_Store
+
+/.bundle/
+/.idea/
+/bin/
+/vendor/
+/venv/
+*~
+*.iml
+.ruby-version
+coverage
